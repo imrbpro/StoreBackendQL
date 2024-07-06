@@ -20,6 +20,7 @@
     <Folder Include="Controllers\" />
     <Folder Include="GraphQL\Schemas\" />
     <Folder Include="GraphQL\Types\" />
+    <Folder Include="Migrations\" />
   </ItemGroup>
 
 </Project>

@@ -11,7 +11,7 @@ using StoreBackendQL.Essentials;
 namespace StoreBackendQL.Migrations
 {
     [DbContext(typeof(StoreDbContext))]
-    [Migration("20240706131521_init")]
+    [Migration("20240706131936_init")]
     partial class init
     {
         /// <inheritdoc />
